@@ -1,0 +1,98 @@
+.my_body{
+    background-color: #cce0ff;
+    background-image: url(./images/pattern-background-desktop.svg);
+    margin:142px;
+}
+
+.my_main{
+    margin-left: 100px;
+    margin-right: 127px;
+    background-color: white;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    border:none;
+}
+
+.my_image{
+    text-align: center;
+    border-radius: 20%;
+    margin-top: 80px;
+}
+
+.my_image_radius{
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    margin-top: -90px;
+    margin-left: -11px;
+}
+
+.my_header{
+    text-align: center;
+}
+
+.my_paragraph_1{
+    text-align: center;
+    font-size: 16px;
+    color: dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.my_paragraph_2{
+    display: inline-block;
+    margin-left: 36px;
+}
+
+.my_paragraph_3{
+    display: inline-block;
+    text-align: center;
+}  
+
+.my_paragraph_4{
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 30px;
+}   
+
+.my_span_1{
+    display: inline-block;
+}
+
+.my_button{
+    text-align: center;
+}
+
+.my_button--color{
+    color:white;
+    background-color: #0149eb;
+    height: 37px;
+    width: 315px;
+    border-radius: 8px;
+    border: none;
+}
+
+.my_button--color:hover{
+    color:white;
+    background-color: #2961e3;
+    height: 37px;
+    width: 315px;
+    border-radius: 8px;
+    border: none;
+}
+
+.my_button--color:active{
+    color:white;
+    background-color: #012b97;
+    height: 37px;
+    width: 315px;
+    border-radius: 8px;
+    border: none;
+}   
+
+.my_div_final{
+    text-align: center;
+    margin: 21px;
+    color: dimgrey;
+}
