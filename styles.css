@@ -33,6 +33,7 @@
 }
 
 .my_paragraph_1{
+    margin-top: -14px;
     text-align: center;
     font-size: 16px;
     color: dimgray;
@@ -44,9 +45,13 @@
     margin-left: 36px;
 }
 
+.my_anual{
+    display: block;
+}
+
 .my_paragraph_3{
-    display: inline-block;
-    text-align: center;
+    display: block;
+    margin-top: -21px;
 }  
 
 .my_paragraph_4{
